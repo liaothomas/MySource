@@ -1,0 +1,1 @@
+C:\GitSource\MySource\MySource\bin\Debug\MySource.exe.config
