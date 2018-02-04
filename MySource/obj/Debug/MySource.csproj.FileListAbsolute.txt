@@ -1,1 +1,7 @@
 C:\GitSource\MySource\MySource\bin\Debug\MySource.exe.config
+C:\GitSource\MySouce\MySource\bin\Debug\MySource.exe.config
+C:\GitSource\MySouce\MySource\bin\Debug\MySource.exe
+C:\GitSource\MySouce\MySource\bin\Debug\MySource.pdb
+C:\GitSource\MySouce\MySource\obj\Debug\MySource.csprojResolveAssemblyReference.cache
+C:\GitSource\MySouce\MySource\obj\Debug\MySource.exe
+C:\GitSource\MySouce\MySource\obj\Debug\MySource.pdb
